@@ -1,3 +1,7 @@
+ul {
+	list-style-type: none;
+}
+
 /* Navbar */
 .nav-link {
 	font-size: 15px;
@@ -14,9 +18,23 @@
 	font-weight: bold;
 }
 
-#bio,
-.about-me-fig  {
+#bio, .about-me-fig {
 	color: #707070;
+}
+
+/* Portfolio */
+#portfolio {
+	margin-top: 500px;
+}
+
+#tech-header, #apps-header {
+	color: #007BFF;
+	font-weight: bold;
+}
+
+.tech-stack {
+	color: #707070;
+	font-weight: bold;
 }
 
 /* Images */
