@@ -23,9 +23,9 @@ ul {
 }
 
 /* Portfolio */
-#portfolio {
+/*#portfolio {
 	margin-top: 500px;
-}
+}*/
 
 #tech-header, #apps-header {
 	color: #007BFF;
@@ -34,6 +34,11 @@ ul {
 
 .tech-stack {
 	color: #707070;
+	font-weight: bold;
+}
+
+/* Contact */
+.contact-header h3 {
 	font-weight: bold;
 }
 
@@ -56,4 +61,9 @@ ul {
 #curious {
 	height: 100px;
 	width: 100px;
+}
+
+#linkedin-icon {
+	height: 50px;
+	width: 50px;
 }
