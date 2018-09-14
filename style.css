@@ -1,0 +1,41 @@
+/* Navbar */
+.nav-link {
+	font-size: 15px;
+}
+
+/* About Me*/
+#intro {
+	color: #007BFF;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.about-me-fig {
+	font-weight: bold;
+}
+
+#bio,
+.about-me-fig  {
+	color: #707070;
+}
+
+/* Images */
+#headshot {
+	height: 70px;
+	width: 70px;
+}
+
+#communication {
+	height: 100px;
+	width: 100px;
+}
+
+#teamwork {
+	height: 100px;
+	width: 100px;
+}
+
+#curious {
+	height: 100px;
+	width: 100px;
+}
