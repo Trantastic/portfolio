@@ -8,11 +8,11 @@ ul {
 }
 
 /* Scrollspy */
-#about, #portfolio, #contact {
+/*#about, #portfolio, #contact {
 	height: 250px;
 	position: relative;
 	overflow: auto;
-}
+}*/
 
 /* About Me*/
 #intro {
