@@ -8,10 +8,10 @@ ul {
 }
 
 /* Scrollspy */
-.scroll-spy {
-	height: 200px;
-	content: "";
-	display: block;
+#about, #portfolio, #contact {
+	height: 250px;
+	position: relative;
+	overflow: auto;
 }
 
 /* About Me*/
