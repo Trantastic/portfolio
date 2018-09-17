@@ -8,11 +8,12 @@ ul {
 }
 
 /* Scrollspy */
-/*#about, #portfolio, #contact {
-	height: 250px;
+#about, #portfolio, #contact {
 	position: relative;
-	overflow: auto;
-}*/
+	margin-top: 100px;
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
 
 /* About Me*/
 #intro {
@@ -28,11 +29,6 @@ ul {
 #bio, .about-me-fig {
 	color: #707070;
 }
-
-/* Portfolio */
-/*#portfolio {
-	margin-top: 500px;
-}*/
 
 #tech-header, #apps-header {
 	color: #007BFF;
