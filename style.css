@@ -10,9 +10,12 @@ ul {
 /* Scrollspy */
 #about, #portfolio, #contact {
 	position: relative;
-	margin-top: 100px;
-	padding-top: 50px;
-	padding-bottom: 100px;
+	margin-top: 200px;
+}
+
+/* Content Spacing */
+.content-spacing {
+	margin-bottom: 300px;
 }
 
 /* About Me*/
